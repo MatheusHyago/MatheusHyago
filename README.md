@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Hyago! 👋
 
-Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e aprendizados. Aqui você encontra projetos que abrangem desde exercícios de lógica e algoritmos em C/C++ até experimentos e práticas com Python, desenvolvimento web com CSS e aplicações Java com Spring Boot.
+Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir. Aqui, você encontrará uma variedade de projetos, desde exercícios de lógica e algoritmos em C/C++ até práticas com Python, desenvolvimento web com CSS e aplicações Java com Spring Boot.
 
 ---
 
@@ -17,9 +17,9 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 </p>
 
 - **Linguagens:** Java, C, C++, Python, HTML/CSS  
-- **Frameworks:** Spring Boot (para desenvolvimento web e backend)  
+- **Frameworks:** Spring Boot (desenvolvimento web e backend)  
 - **Ferramentas:** Git, GitHub  
-- **Áreas de interesse:** Desenvolvimento de algoritmos, práticas de programação, criação de websites e aplicações com Spring Boot.  
+- **Áreas de interesse:** Desenvolvimento de algoritmos, programação prática, criação de websites e aplicações com Spring Boot.
 
 ---
 
@@ -30,13 +30,14 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 </p>
 
 ---
+
 ## 🐍 Meus commits recentes  
 
 ![Snake animation](https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Contato  
+## 📫 Vamos nos conectar!  
 
 Sinta-se à vontade para me enviar uma mensagem ou contribuir com meus projetos!  
 
@@ -45,4 +46,4 @@ Sinta-se à vontade para me enviar uma mensagem ou contribuir com meus projetos!
 
 ---
 
-Fique à vontade para explorar meus repositórios e contribuir com sugestões ou colaborações 😉.
+Fique à vontade para explorar meus repositórios e contribuir com sugestões ou colaborações 😉. 
