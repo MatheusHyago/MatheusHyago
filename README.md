@@ -33,9 +33,8 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 
 ## 🐍 Meus commits recentes  
 
-<p align="center">
-  <img src="https://github.com/MatheusHyago/MatheusHyago/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+![Snake animation](https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/github-contribution-grid-snake.svg)
+
 
 ---
 
