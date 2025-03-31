@@ -29,7 +29,7 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 Sinta-se à vontade para me enviar uma mensagem ou contribuir com meus projetos!  
 
 - **Email:** [matheushyago92@gmail.com](mailto:matheushyago92@gmail.com)  
-- **LinkedIn:** [https://www.linkedin.com/in/matheus-hyago-662897260/](#)  
+- **LinkedIn:** [Matheus Hyago](https://www.linkedin.com/in/matheus-hyago-662897260/)  
 
 ---
 
