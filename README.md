@@ -31,12 +31,6 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 
 ---
 
-## 🐍 Meus commits recentes  
-
-![Snake animation](https://github.com/MatheusHyago/MatheusHyago/raw/main/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contato  
 
 Sinta-se à vontade para me enviar uma mensagem ou contribuir com meus projetos!  
