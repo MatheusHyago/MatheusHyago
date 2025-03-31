@@ -1,4 +1,4 @@
-name: Gerar Snake 🐍
+name: Generate Snake 🐍
 
 on:
   schedule:
@@ -18,10 +18,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Mover e Commitar a cobrinha gerada
+      - name: Mover o arquivo gerado para a raiz
         run: |
-          chmod +x dist/github-contribution-grid-snake.svg
-          mv dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg  # Move para a raiz
+          mv dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-contribution-grid-snake.svg
