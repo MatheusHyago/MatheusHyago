@@ -7,13 +7,13 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 ## 🛠️ Tecnologias e Ferramentas  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/java-logo.svg" alt="Java" width="50"/>
-  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/spring-boot-logo.svg" alt="Spring Boot" width="50"/>
-  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/python-logo.svg" alt="Python" width="50"/>
-  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/c-logo.svg" alt="C" width="50"/>
-  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/cplusplus-logo.svg" alt="C++" width="50"/>
-  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/html5-logo.svg" alt="HTML" width="50"/>
-  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/css3-logo.svg" alt="CSS" width="50"/>
+  <img src="./imagens/java-logo.svg" alt="Java" width="50"/>
+  <img src="./imagens/spring-boot-logo.svg" alt="Spring Boot" width="50"/>
+  <img src="./imagens/python-logo.svg" alt="Python" width="50"/>
+  <img src="./imagens/c-logo.svg" alt="C" width="50"/>
+  <img src="./imagens/cplusplus-logo.svg" alt="C++" width="50"/>
+  <img src="./imagens/html5-logo.svg" alt="HTML" width="50"/>
+  <img src="./imagens/css3-logo.svg" alt="CSS" width="50"/>
 </p>
 
 - **Linguagens:** Java, C, C++, Python, HTML/CSS  
