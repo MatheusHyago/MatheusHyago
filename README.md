@@ -7,13 +7,13 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 ## 🛠️ Tecnologias e Ferramentas  
 
 <p align="center">
-  <img src="https://github.com/MatheusHyago/MatheusHyago/raw/main/imagens/java-logo.svg" alt="Java" width="50"/>
-  <img src="https://github.com/MatheusHyago/MatheusHyago/raw/main/imagens/spring-boot-logo.svg" alt="Spring Boot" width="50"/>
-  <img src="https://github.com/MatheusHyago/MatheusHyago/raw/main/imagens/python-logo.svg" alt="Python" width="50"/>
-  <img src="https://github.com/MatheusHyago/MatheusHyago/raw/main/imagens/c-logo.svg" alt="C" width="50"/>
-  <img src="https://github.com/MatheusHyago/MatheusHyago/raw/main/imagens/cplusplus-logo.svg" alt="C++" width="50"/>
-  <img src="https://github.com/MatheusHyago/MatheusHyago/raw/main/imagens/html5-logo.svg" alt="HTML" width="50"/>
-  <img src="https://github.com/MatheusHyago/MatheusHyago/raw/main/imagens/css3-logo.svg" alt="CSS" width="50"/>
+  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/java-logo.svg" alt="Java" width="50"/>
+  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/spring-boot-logo.svg" alt="Spring Boot" width="50"/>
+  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/python-logo.svg" alt="Python" width="50"/>
+  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/c-logo.svg" alt="C" width="50"/>
+  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/cplusplus-logo.svg" alt="C++" width="50"/>
+  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/html5-logo.svg" alt="HTML" width="50"/>
+  <img src="https://raw.githubusercontent.com/MatheusHyago/MatheusHyago/main/imagens/css3-logo.svg" alt="CSS" width="50"/>
 </p>
 
 - **Linguagens:** Java, C, C++, Python, HTML/CSS  
