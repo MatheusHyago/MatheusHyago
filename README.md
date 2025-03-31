@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou o Matheus Hyago! 👋
 
-<!--
-**MatheusHyago/MatheusHyago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e aprendizados. Aqui você encontra projetos que abrangem desde exercícios de lógica e algoritmos em C/C++ até experimentos e práticas com Python, desenvolvimento web com CSS e aplicações Java com Spring Boot.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50">
+</div>
+
+- **Linguagens:** Java, C, C++, Python, HTML/CSS  
+- **Frameworks:** Spring Boot (para desenvolvimento web e backend)  
+- **Ferramentas:** Git, GitHub  
+- **Áreas de interesse:** Desenvolvimento de algoritmos, práticas de programação, criação de websites e aplicações  com Spring Boot.  
+
+## 📈 Estatísticas do GitHub  
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusHyago&show_icons=true&theme=dark)  
+
+## 📫 Contato  
+
+Sinta-se à vontade para me enviar uma mensagem ou contribuir com meus projetos!  
+
+- **Email:** [matheushyago92@gmail.com](mailto:matheushyago92@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/matheus-hyago-662897260/)](#)  
+
+---
+
+Fique à vontade para explorar meus repositórios e contribuir com sugestões ou colaborações. Vamos aprender e evoluir juntos! 🚀
