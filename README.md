@@ -8,28 +8,28 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 
 <p align="center">
   <!-- Logo MySQL -->
-  <img src="https://pngimg.com/download/60283" alt="MySQL" width="50" />
+  <i class="devicon-mysql-plain colored"></i>
   
   <!-- Logo Oracle Database -->
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/Oracle-Logo.png" alt="Oracle Database" width="50" />
+  <i class="devicon-oracle-original colored"></i>
   
   <!-- Logo Java -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" alt="Java" width="50" />
+  <i class="devicon-java-plain colored"></i>
   
   <!-- Logo Spring Boot -->
-  <img src="https://dzone.com/storage/temp/12952098/spring-boot-logo.jpg" alt="Spring Boot" width="50" />
+  <i class="devicon-spring-plain colored"></i>
   
   <!-- Logo HTML -->
-  <img src="https://cdn.pixabay.com/photo/2018/02/25/17/29/html-1623778_960_720.png" alt="HTML" width="50" />
+  <i class="devicon-html5-plain colored"></i>
   
   <!-- Logo CSS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="50" />
+  <i class="devicon-css3-plain colored"></i>
   
   <!-- Logo C++ -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_logo.svg" alt="C++" width="50" />
+  <i class="devicon-cplusplus-plain colored"></i>
   
   <!-- Logo Python -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" />
+  <i class="devicon-python-plain colored"></i>
 </p>
 
 - **Linguagens:** Java, C, C++, Python, HTML/CSS  
