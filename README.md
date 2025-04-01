@@ -8,28 +8,28 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 
 <p align="center">
   <!-- Logo MySQL -->
-  <i class="devicon-mysql-plain colored"></i>
-  
-  <!-- Logo Oracle Database -->
-  <i class="devicon-oracle-original colored"></i>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" />
+
+  <!-- Logo Oracle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Logo" width="50" />
+
   <!-- Logo Java -->
-  <i class="devicon-java-plain colored"></i>
-  
-  <!-- Logo Spring Boot -->
-  <i class="devicon-spring-plain colored"></i>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="50" />
+
+  <!-- Logo Spring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot Logo" width="50" />
+
   <!-- Logo HTML -->
-  <i class="devicon-html5-plain colored"></i>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" />
+
   <!-- Logo CSS -->
-  <i class="devicon-css3-plain colored"></i>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" />
+
   <!-- Logo C++ -->
-  <i class="devicon-cplusplus-plain colored"></i>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50" />
+
   <!-- Logo Python -->
-  <i class="devicon-python-plain colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" />
 </p>
 
 
