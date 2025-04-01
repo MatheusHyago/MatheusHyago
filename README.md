@@ -8,13 +8,14 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" alt="Java" width="50"/>
-  <img src="https://spring.io/images/STS/spring-logo-vertical.svg" alt="Spring Boot" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Spring_logo_2018.svg" alt="Spring Boot" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/C_Programming_Language_logo.svg" alt="C" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_logo.svg" alt="C++" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo.svg" alt="HTML" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="50"/>
 </p>
+
 
 - **Linguagens:** Java, C, C++, Python, HTML/CSS  
 - **Frameworks:** Spring Boot (para desenvolvimento web e backend)  
