@@ -8,28 +8,28 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 
 <p align="center">
   <!-- Logo MySQL -->
-  <img src="imagens/mysql_logo.png" alt="MySQL" width="50" />
+  <img src="https://pngimg.com/download/60283" alt="MySQL" width="50" />
   
   <!-- Logo Oracle Database -->
-  <img src="imagens/oracle_logo.png" alt="Oracle Database" width="50" />
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/Oracle-Logo.png" alt="Oracle Database" width="50" />
   
   <!-- Logo Java -->
-  <img src="imagens/java_logo.png" alt="Java" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" alt="Java" width="50" />
   
   <!-- Logo Spring Boot -->
-  <img src="imagens/spring_boot_logo.png" alt="Spring Boot" width="50" />
+  <img src="https://dzone.com/storage/temp/12952098/spring-boot-logo.jpg" alt="Spring Boot" width="50" />
   
   <!-- Logo HTML -->
-  <img src="imagens/html_logo.png" alt="HTML" width="50" />
+  <img src="https://cdn.pixabay.com/photo/2018/02/25/17/29/html-1623778_960_720.png" alt="HTML" width="50" />
   
   <!-- Logo CSS -->
-  <img src="imagens/css_logo.png" alt="CSS" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="50" />
   
   <!-- Logo C++ -->
-  <img src="imagens/cplusplus_logo.png" alt="C++" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_logo.svg" alt="C++" width="50" />
   
   <!-- Logo Python -->
-  <img src="imagens/python_logo.png" alt="Python" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" />
 </p>
 
 - **Linguagens:** Java, C, C++, Python, HTML/CSS  
