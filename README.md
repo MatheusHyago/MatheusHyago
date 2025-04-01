@@ -33,7 +33,7 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 </p>
 
 
-- **Linguagens:** Java, C, C++, Python, HTML/CSS  
+- **Linguagens:** Java, C, C++, Python, HTML/CSS, MySQL e Oracle
 - **Frameworks:** Spring Boot (para desenvolvimento web e backend)  
 - **Ferramentas:** Git, GitHub  
 - **Áreas de interesse:** Desenvolvimento de algoritmos, práticas de programação, criação de websites e aplicações com Spring Boot.  
