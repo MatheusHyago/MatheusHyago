@@ -32,6 +32,7 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
   <i class="devicon-python-plain colored"></i>
 </p>
 
+
 - **Linguagens:** Java, C, C++, Python, HTML/CSS  
 - **Frameworks:** Spring Boot (para desenvolvimento web e backend)  
 - **Ferramentas:** Git, GitHub  
