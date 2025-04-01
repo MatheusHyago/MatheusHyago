@@ -7,13 +7,29 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em busca de novos desafios e apr
 ## 🛠️ Tecnologias e Ferramentas  
 
 <p align="center">
-  <img src="imagens/java_logo.svg" alt="Java" width="50" />
-  <img src="imagens/spring_logo.svg" alt="Spring Boot" width="50" />
-  <img src="imagens/python_logo.svg" alt="Python" width="50" />
-  <img src="imagens/c_logo.svg" alt="C" width="50" />
-  <img src="imagens/cplusplus_logo.svg" alt="C++" width="50" />
-  <img src="imagens/html_logo.svg" alt="HTML" width="50" />
-  <img src="imagens/css_logo.svg" alt="CSS" width="50" />
+  <!-- Logo MySQL -->
+  <img src="imagens/mysql_logo.png" alt="MySQL" width="50" />
+  
+  <!-- Logo Oracle Database -->
+  <img src="imagens/oracle_logo.png" alt="Oracle Database" width="50" />
+  
+  <!-- Logo Java -->
+  <img src="imagens/java_logo.png" alt="Java" width="50" />
+  
+  <!-- Logo Spring Boot -->
+  <img src="imagens/spring_boot_logo.png" alt="Spring Boot" width="50" />
+  
+  <!-- Logo HTML -->
+  <img src="imagens/html_logo.png" alt="HTML" width="50" />
+  
+  <!-- Logo CSS -->
+  <img src="imagens/css_logo.png" alt="CSS" width="50" />
+  
+  <!-- Logo C++ -->
+  <img src="imagens/cplusplus_logo.png" alt="C++" width="50" />
+  
+  <!-- Logo Python -->
+  <img src="imagens/python_logo.png" alt="Python" width="50" />
 </p>
 
 - **Linguagens:** Java, C, C++, Python, HTML/CSS  
